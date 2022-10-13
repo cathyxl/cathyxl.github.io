@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lin's Accout"
+title                    : "Lin's Homepage"
 title_separator          : "-"
 name                     : &name "Lin Xu"
-description              : &description "PhD. student in National Unversity of Singapore"
+description              : &description "PhD. student in Computer Science, National Unversity of Singapore since 2020"
 url                      : https://cathyxl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cathyxl.github.io"
